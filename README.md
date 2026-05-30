@@ -9,11 +9,14 @@ Atualmente estou cursando graduação em **Análise e Desenvolvimento de Sistema
 Neste espaço você encontrará meus códigos criados no Google Colab, divididos por tópicos de aprendizado:
 * **Análise de Dados com Python:** Uso da biblioteca `pandas` para manipulação de dados, aplicação de filtros estruturados e extração de estatísticas descritivas.
 * **Lógica de Programação:** Exercícios práticos para fixação de conceitos fundamentais.
+* * **SQL com DBeaver:** Criação de banco de dados SQLite com tabelas relacionais para análise de dados socioeconômicos de municípios brasileiros.
 
 ## 🛠️ Tecnologias Utilizadas
 * Python 3
 * Pandas (Biblioteca para Análise de Dados)
 * Google Colab & Jupyter Notebooks
+* * SQL / SQLite
+* DBeaver
 
 ---
 *Sinta-se à vontade para explorar os códigos, dar feedbacks ou se conectar comigo!*
